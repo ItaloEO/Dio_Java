@@ -1,2 +1,2 @@
 # Dio_Java
-Repositórios para criação de novos projetos em java :) 
+Repositórios para criação de novos projetos em java
